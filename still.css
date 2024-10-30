@@ -1,0 +1,42 @@
+h1{
+	font-size:60px;
+	font-family:"Sansita";
+	font-style:normal;
+	font-weight:bold;
+	color:rgb(64,40,58);
+	background-color:rgb(181,210,243);
+
+	text-shadow: 4px 4px 3px rgb(169,182,198);
+	letter-spacing: 4px;
+	text-align:center;
+}
+h2{
+	font-size:25px;
+	text-align:center;
+}
+h3{
+	font-size:20px;
+}
+p{
+	font-size:18px;
+	font-family:Times new roman;
+	font-style:normal;
+	font-weight:normal;
+	background-color:rgb(190,221,246);
+	line-height: 20px;
+	width:1000px;
+}
+body{
+	background-color:rgb(224,234,246);
+}
+ul{
+	list-style-type: circle;
+}
+span{
+	font-weight:bold;
+	color: blue;
+	text-shadow: 4px 4px 3px rgb(169,182,198);
+}
+img {
+  float: right;
+}
